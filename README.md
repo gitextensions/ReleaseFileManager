@@ -10,7 +10,7 @@ Manage setup build scripts
 
 ## Expected Workflow
 1. User runs build script to create release build files
-1. User runs this utility or even utility is run in build script to alter build scripts to include missing files in both installers
+1. User runs this utility or even utility is run in build script to alter setup build scripts to include missing files in both installers
 1. User verifies setup build script changes and commits
 
 ## Benefits
