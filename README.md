@@ -18,3 +18,7 @@ Manage setup build scripts
 - Changes to needed files are detected
 - User has final say over the changes and can edit in a way that is not prone to errors
 - Sourcing files from ...\Bin\\%Configuration% folder will make it so portable builds are easier to manage
+
+## Linqpad Scripts folder
+
+The scripts found in this folder are used to do research on the files in the main GitExtensions repo. You must have [LinqPad](http://www.linqpad.net) installed.  
